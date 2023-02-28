@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IT-DivingVK</string>
+    <string name="greeting">Приветствие</string>
+    <string name="hello">Привет!</string>
+    <string name="empty_app">Приложение не устновлено</string>
+    <string name="user_name">Имя пользователя</string>
+    <string name="persik">Персик</string>
+    <string name="long_name">Ну очень уж длинное имя, которое никак не помещается в TextView</string>
+</resources>
